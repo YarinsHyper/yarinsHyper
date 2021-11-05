@@ -5,7 +5,11 @@
 
 - I’m currently working on something cool :sunglasses:
 - I’m currently learning Go
-- How to reach me: [@TheRealYarin](https://twitter.com/TheRealYarin) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
+- How to reach me: [@TheRealYarin](https://twitter.com/TheRealYarin) or <a rel="me" href="https://fosstodon.org/@yarinBenisty">fosstodon.org/@yarinBenisty</a>
+
+### About Me:
+
+I am a Full Stack Developer with 2+ years of experience in developing.
 
 ### Connect with me:
 
@@ -15,12 +19,6 @@
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-
-### About Me:
-
-I am a Full Stack Developer with 2+ years of experience in developing.
-
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
