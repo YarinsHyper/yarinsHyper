@@ -7,7 +7,7 @@
 - I’m currently learning Go
 - How to reach me: [@TheRealYarin](https://twitter.com/TheRealYarin) or <a rel="me" href="https://fosstodon.org/@gkr">fosstodon.org/@gkr</a>
 
-### Connect with me\*\*
+### Connect with me:
 
 <p align="left">
 <a href="https://dev.to/gautamkrishnar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a>
@@ -16,13 +16,11 @@
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 <a href="https://instagram.com/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-<details>
-  <summary><b>### About Me</b></summary>
-  <br/>
+
+### About Me:
 
 I am a Full Stack Developer with 2+ years of experience in developing.
 
-</details>
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left"> 
