@@ -9,7 +9,7 @@
 
 ### About Me:
 
-I'm a Full Stack Developer with 2+ years of experience in developing.
+I'm a Full Stack Developer with 3+ years of experience in developing.
 
 ### Connect with me:
 
