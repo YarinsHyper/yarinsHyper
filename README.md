@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 - I’m currently working on something cool :sunglasses:
-- I’m currently learning ** React **.
+- I’m currently learning **React**.
 - Reach me at: **yarin1857@gmail.com**
 
 ### About Me:
