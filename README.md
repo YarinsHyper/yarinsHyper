@@ -6,7 +6,9 @@
 - I’m currently working on something cool :sunglasses:
 - I’m currently learning **new technologies**.
 - Reach me at:
+  <br>
   E-mail: **yarin1857@gmail.com**
+  <br>
   Website: **www.yarinbenisty.com**
 
 ### About Me:
@@ -14,7 +16,7 @@
 I'm a Full Stack Developer with 3+ years of experience in developing.
 
 ### Connect with me:
-
+![](https://komarev.com/ghpvc/?username=YarinsHyper&color=lightgrey)
 <p align="left">
 <a href="https://www.linkedin.com/in/yarinbenisty/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
