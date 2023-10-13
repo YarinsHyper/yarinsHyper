@@ -1,7 +1,7 @@
 <h1 align="center">Yarin</h1>
 <h3 align="center">A Full Stack Developer from Israel</h3>
+<h3 align="center">![](https://komarev.com/ghpvc/?username=YarinsHyper&color=lightgrey)</h3>
 
-![](https://komarev.com/ghpvc/?username=YarinsHyper&color=lightgrey)
 ### Hi there 👋
 
 - I’m currently working on something cool :sunglasses:
