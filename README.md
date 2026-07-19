@@ -1,5 +1,5 @@
 <h1 align="center">Yarin</h1>
-<h3 align="center">A Full Stack Developer from Israel</h3>
+<h3 align="center">A Full Stack Engineer from Israel</h3>
 
 ![](https://komarev.com/ghpvc/?username=YarinsHyper&color=lightgrey)
 ### Hi there 👋
@@ -14,7 +14,7 @@
 
 ### About Me:
 
-I'm a Full Stack Developer with 5+ years of experience in developing.
+I'm a Full Stack Engineer with 5+ years of experience in developing.
 
 ### Connect with me:
 <p align="left">
